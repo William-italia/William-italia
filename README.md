@@ -1,4 +1,6 @@
-## Oii! Eu sou o William, Estudo Programação e atualmente estou aprendendo as seguintes linguagens! 
+<strong> Seja Bem-Vindo! </strong>
+---
+## Eu sou o William, Estudo Programação e atualmente estou estudando as seguintes linguagens! 
 <div align="center">
   <a href="https://github.com/William-italia">
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=William-italia&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
