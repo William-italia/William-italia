@@ -1,7 +1,7 @@
 ---
 <footer align="center">
   <p align="center">
-    <font size="90000000">  <strong>>> Seja Bem-Vindo! <<</strong> </font>
+    <font size="90000000">  <strong> - - - - - >>> Seja_Bem_Vindo! <<< - - - - - </strong> </font>
   </p>
 </footer>
 
