@@ -1,13 +1,13 @@
 <footer align="center">
   <p align="center">
-    <font size="2000">  <strong>>> Seja Bem-Vindo! <<</strong> </font>
+    <font size="90000000">  <strong>>> Seja Bem-Vindo! <<</strong> </font>
   </p>
 </footer>
 
 ---
 
  
-### Eu sou o William, Estudo Programação e estou focado em aprender cada vez mais! estou estudando as seguintes linguagens:
+#### Eu sou o William, Estudo Programação e estou focado em aprender cada vez mais! estou estudando as seguintes linguagens:
 
 <div style="display: inline_block"><br>
   <img align="center" alt="William-italia-Js" height="30" width="40" 
