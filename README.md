@@ -9,7 +9,7 @@
 
  
 ### Eu sou o William, Estudo Programação e estou focado em aprender cada vez mais! 
-#### Estou estudando as seguintes linguagens:
+#### * _Estou estudando as seguintes linguagens:_ 
 
 <div style="display: inline_block">
   <img align="center" alt="William-italia-Js" height="30" width="40" 
