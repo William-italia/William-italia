@@ -7,9 +7,10 @@
 ---
 
  
-### Eu sou o William, Estudo Programação e estou focado em aprender cada vez mais! estou estudando as seguintes linguagens:
+### Eu sou o William, Estudo Programação e estou focado em aprender cada vez mais! 
+#### Estou estudando as seguintes linguagens:
 
-<div style="display: inline_block"><br>
+<div style="display: inline_block">
   <img align="center" alt="William-italia-Js" height="30" width="40" 
        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="William-italia-Ts" height="30" width="40" 
@@ -36,17 +37,20 @@
          src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/nextjs/nextjs-line.svg">
   <img align="center"alt="Williamitalia-GML"height="30"width="40"
          src="https://cdn3.iconfinder.com/data/icons/file-types-46/750/1_206-512.png"> 
- 
+ <br>
+ <br>
 </div>
    <br>
   <div align="center">
   <a href="https://github.com/William-italia">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=William-italia&show_icons=true&theme=bear&include_all_commits=true&count_private=true"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=William-italia&show_icons=true&theme=bear&include_all_commits=truent_private=true"/>
   <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=William-italia&layout=compact&langs_count=7&theme=bear"/>
 
 </div>
  
-  ![Snake animation](https://github.com/william-italia/william-italia/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/william-italia/william-italia/blob/output/github-contribution-grid-snake.svg)
+
+  <br>
   
   <div> 
   <a href="" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
