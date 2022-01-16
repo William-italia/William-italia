@@ -8,7 +8,8 @@
 </footer>
 
 ---
-
+<img align="center" height="300" width="400" 
+       src="hhttps://discord.com/channels/@me/835387994198245378/932407710274715668">
  
 ### Eu sou o William, Estudo Programação e estou focado em aprender cada vez mais! 
 #### * _Estou estudando as seguintes linguagens:_ 
