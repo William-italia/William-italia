@@ -47,7 +47,7 @@
   <div align="center">
   <a href="https://github.com/William-italia">
    <img height="100%" width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=William-italia&layout=compact&langs_count=7&theme=bear"/>
-  <img height="100%" width="405px" src="https://github-readme-stats.vercel.app/api?username=William-italia&show_icons=true&theme=bear&include_all_commits=truent_private=true"/>
+
   
 
 </div>
