@@ -51,8 +51,8 @@
 
 <p>
 <a href="https://github.com/William-italia">
-   <img width="430em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=William-italia&layout=compact&langs_count=7&theme=bear"/>
-   <img width="517rem" src="https://github-readme-stats.vercel.app/api?username=William-italia&show_icons=true&theme=bear"/>
+   <img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=William-italia&layout=compact&langs_count=7&theme=bear"/>
+   
 </p>
 
 <br>
