@@ -10,7 +10,7 @@
 - 👨‍💻 Sou estudante de programação 
 <br>
 
-- 📚 Eu estou estudando as seguintes linguagens: **JavaScript , Html, Css, C#, SQL, Node** etc..
+- 📚 Eu estou estudando as seguintes linguagens atualmente: **JavaScript , Html, Css, C#, SQL, Node** etc..
 <br>
 
 - 🪐  _**No Pain No Gain.**_
