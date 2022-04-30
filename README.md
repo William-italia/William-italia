@@ -1,65 +1,80 @@
-<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<h1><strong>Hi </strong><img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"><strong> , I am william! </strong></h1>
 
----
-<footer align="center">
-  <p align="center">
-    <strong> -=-=-=-=- >>> Seja_Bem_Vindo! <<< -=-=-=-=- </strong> 
-  </p>
-</footer>
+<img align="right" width="300em" height="300em" src="https://github.com/birobirobiro/birobirobiro/blob/master/animation_500_kv8i962g.gif?raw=true"/>
 
----
- 
-### Eu sou o William, Estudo Programação e estou focado em aprender cada vez mais! 
-#### * _Estou estudando as seguintes linguagens:_ 
-  
-<div style="display: inline_block">
-  <img align="center" alt="William-italia-Csharp" height="30" width="40" 
-       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-   <img align="center" alt="William-italia-HTML" height="30" width="40" 
-       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="William-italia-CSS" height="30" width="40" 
-       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="William-italia-Js" height="30" width="40" 
-       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="William-italia-Ts" height="30" width="40" 
-       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center"alt="Williamitalia-MYSQL"height="30"width="40"
-         src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/mysql/mysql-original-wordmark.svg">
-  <img align="center" alt="William-italia-React" height="30" width="40" 
-       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="William-italia-Python" height="30" width="40" 
-       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-   <img align="center"alt="Williamitalia-Java"height="30"width="40"
-         src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/java/java-original-wordmark.svg">
-  <img align="center"alt="Williamitalia-graphql"height="30"width="40"
-         src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/graphql/graphql-plain.svg">
-  <img align="center"alt="Williamitalia-APOLLO"height="30"width="40"
-         src="https://cdn.worldvectorlogo.com/logos/apollo-graphql-1.svg">
-  <img align="center"alt="Williamitalia-next.js"height="30"width="40"
-         src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/nextjs/nextjs-line.svg">
-  <img align="center"alt="Williamitalia-GML"height="30"width="40"
-         src="https://cdn3.iconfinder.com/data/icons/file-types-46/750/1_206-512.png"> 
- <br>
- <br>
-  
-</div>
-   <br>
-  <div align="center">
-  <a href="https://github.com/William-italia">
-   <img height="100%" width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=William-italia&layout=compact&langs_count=7&theme=bear"/>
+<br>
 
-  
+- 👨‍💻 I'm a programming student 
+<br>
+<br>
+- 📚 I am studying the following programming languages: **JavaScript , Html, Css, C#, SQL, Node** etc..
+<br>
+<br>
+- 🪐 _**No Pain No Gain**_.
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<hr>
 
-</div>
- 
+``` 
+----------------------- <====================> -----------------------
+|                                                                               
+| Estudo programação sozinho, mas faço curso tecnico sobre TI na parte 
+| da noite na Etec, e realizo outros cursos especificos sobre algumas 
+| linguagens. 
+|
+----------------------- <====================> -----------------------
+
+----------------------- <====================> -----------------------
+|
+| I am study programming alone, but I take a technical course on IT      
+| at night at Etec, and I do other specific courses on some languages.   
+|
+----------------------- <====================> -----------------------
+```
+<br>
+<hr>
+
+<br>
+
+## **🛠 &nbsp;Tech Stack**
+<br>
+
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
+<br>
+<br>
+<hr>
+
+<br>
+
+## **⚙️ &nbsp;GitHub Analytics**
+<br>
+
+<p align="left">
+<a href="https://github.com/William-italia">
+   <img width="430em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=William-italia&layout=compact&langs_count=7&theme=bear"/>
+</p>
+
+<p align="left">
+<img width="430em" src="https://github-readme-stats.vercel.app/api?username=William-italia&show_icons=true&theme=bear"/>
+</p>
+
+<br>
+<br>
+
 ![Snake animation](https://github.com/william-italia/william-italia/blob/output/github-contribution-grid-snake.svg)
 
-  <br>
-  
-  <div> 
-  <a href="" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
- <a href="https://discord.gg/gDpVA9fA" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"</a> 
-  <a href="https://www.linkedin.com/in/william-itália-101113222/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-    <a href="mailto:williamitalia70@outlook.com" target="_blank"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a> 
- 
-</div>
+<br>
+<br>
+<a href="" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a> <a href="https://discord.gg/gDpVA9fA" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"> </a> 
+  <a href="https://www.linkedin.com/in/william-itália-101113222/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ <a href="mailto:williamitalia70@outlook.com" target="_blank"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a> 
