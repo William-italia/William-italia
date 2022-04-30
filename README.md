@@ -14,26 +14,16 @@
 <br>
 <br>
 <br>
-<br>
-<br>
-<br>
+
 <hr>
 
 ``` 
------------------------ <====================> -----------------------
-|                                                                               
-| Estudo programação sozinho, mas faço curso tecnico sobre TI na parte 
-| da noite na Etec, e realizo outros cursos especificos sobre algumas 
-| linguagens. 
-|
------------------------ <====================> -----------------------
 
------------------------ <====================> -----------------------
-|
-| I am study programming alone, but I take a technical course on IT      
-| at night at Etec, and I do other specific courses on some languages.   
-|
------------------------ <====================> -----------------------
+Estudo programação sozinho, mas faço curso tecnico sobre TI na parte da noite na Etec, e realizo outros cursos especificos sobre algumas 
+linguagens.  
+
+I am study programming alone, but I take a technical course on IT at night at Etec, and I do other specific courses on some languages.     
+   
 ```
 <br>
 <hr>
@@ -50,8 +40,6 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
-<br>
-<br>
 <hr>
 
 <br>
