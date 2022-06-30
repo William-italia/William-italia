@@ -45,5 +45,5 @@ Discord: Chart70#7027
 
 <img align="left" width="300em" height="300em" src="https://github.com/birobirobiro/birobirobiro/blob/master/animation_500_kv8i962g.gif?raw=true"/>
 <br><br><br>
-<strong>Hobbys:</strong> <br><br> ESTUDAR <br> JOGAR <br> Montar o cubo de rubik <br><br><br><br><br><br><br> Programar é minha vida, não um hobby, então não faz parte da lista.
+<strong>Hobbys:</strong> <br><br> ESTUDAR <br> JOGAR <br> Montar o cubo de rubik <br><br><br><br><br><br><br><br> Programar é minha vida, não um hobby, então não faz parte da lista.
 <hr>
