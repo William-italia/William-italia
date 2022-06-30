@@ -1,6 +1,6 @@
 <hr>
 <img align="right" width="300em" height="300em" src="https://123marcas.com.br/wp-content/uploads/2016/11/rubik.gif"/>
-<h1>-*-*-*-*-*-*- 👋 Bem-vindo! -*-*-*-*-*-*-</h1> 
+<h1>-*-*-*-*-* 👋 Bem-vindo! *-*-*-*-*-</h1> 
 <br>
 Oi, Meu nome é william! 
 <br>
