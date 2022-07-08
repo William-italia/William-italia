@@ -47,3 +47,21 @@ Discord: Chart70#7027
 <br><br><br>
 <strong>Hobbys:</strong> <br><br> ESTUDAR <br> JOGAR <br> Montar o cubo de rubik <br><br><br><br><br><br><br><br> Programar é minha vida.
 <hr>
+
+
+
+<br>
+
+## *⚙️ &nbsp;GitHub Analytics*
+<br>
+
+<p>
+<a href="https://github.com/William-italia">
+   <img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=William-italia&layout=compact&langs_count=7&theme=bear"/>
+   
+</p>
+
+<br>
+
+![Snake animation](https://github.com/william-italia/william-italia/blob/output/github-contribution-grid-snake.svg)
+<hr>
