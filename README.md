@@ -23,8 +23,6 @@ Mas tambem estudo outras linguagens, que são elas:
 |GRAPHQL    |  XXXX        |
 
 Entre outras....
-
- Curso cursos de programação, Design, inglês, programação de jogos, em plataformas como ROCKETSEAT, ALURA entre outras, Vou voltar a cursar TI na [Etec Adolpho Berezin](http://eteab.com.br/cms/) ano que vem. ( 2023 ). 
 <br>
 <hr>
 Contato:
