@@ -15,7 +15,7 @@ Mas tambem estudo outras linguagens, que são elas:
 |-----------| -------------|
 |PHP        | SQL          |
 |NODE.JS    | PostgreSQL   |
-|PYTHON 3   | SqlLITE      |
+|PYTHON     | SqlLITE      |
 |SASS       | mongoDB      | 
 |REACT.JS   | REDIS        |
 |NEXT.JS    | CouchDB      |
@@ -33,21 +33,7 @@ Email: williamitalia70@outlook.com
 <br>
 Linkedin: [Meu Linkedin](https://www.linkedin.com/in/william-itália-101113222/)
 <br>
-Discord: Chart70#7027 
-<br>
-
-
 <hr>
-
-*__OBS: CODAR, ESTUDAR, JOGAR.__*
-
-<img align="left" width="300em" height="300em" src="https://github.com/birobirobiro/birobirobiro/blob/master/animation_500_kv8i962g.gif?raw=true"/>
-<br><br><br>
-<strong>Hobbys:</strong> <br><br> ESTUDAR <br> JOGAR <br> Montar o cubo de rubik <br><br><br><br><br><br><br><br> Programar é minha vida.
-<hr>
-
-
-
 <br>
 
 ## *⚙️ &nbsp;GitHub Analytics*
