@@ -4,25 +4,11 @@
 <br>
 Oi, Meu nome é william! 
 <br>
-Atualmente estou me aprofundando em HTML, CSS, e JAVA SCRIPT. 
-<br>
-<br>
-Mas tambem estudo outras linguagens, que são elas: 
-<br>
-<br>
+Atualmente estou me aprofundando em todos os conhecimentos que um Dev Fullstack tem que saber para desenvolver aplicações, tanto para conhecimento proprio, quanto para ter um melhor rendimento na faculdade de ADS(Analise e Desenvolvimento de Sistemas), tambem estudo sobre hardware e manutenção de computadores. 
 
-|Programação| DADOS        |
-|-----------| -------------|
-|PHP        | SQL          |
-|NODE.JS    | PostgreSQL   |
-|PYTHON     | SqlLITE      |
-|SASS       | mongoDB      | 
-|REACT.JS   | REDIS        |
-|NEXT.JS    | CouchDB      |
-|DJANGO     | FIREBASE     |     
-|GRAPHQL    |  XXXX        |
-
-Entre outras....
+Estudando: HTML, CSS, JAVASCRIPT, NODE.JS, PHP, BANCDO DE DADOS EM GERAL(MYSQL, SQL, MONGO DB, PostgreSQL, etc...), Python, C#
+, C, entre outras linguagens. <br>
+<br>
 <br>
 <hr>
 Contato:
