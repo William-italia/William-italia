@@ -18,15 +18,5 @@ Linkedin: [Meu Linkedin](https://www.linkedin.com/in/william-itália-101113222/)
 <hr>
 <br>
 
-## *⚙️ &nbsp;GitHub Analytics*
-<br>
-
-<p>
-<a href="https://github.com/William-italia">
-   <img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=William-italia&layout=compact&langs_count=7&theme=bear"/>
-</p>
-
-<br>
-
 ![Snake animation](https://github.com/william-italia/william-italia/blob/output/github-contribution-grid-snake.svg)
 <hr>
