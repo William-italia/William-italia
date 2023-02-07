@@ -11,8 +11,6 @@ Atualmente estou me aprofundando em todos os conhecimentos que um Dev Fullstack 
 <hr>
 Contato:
 <br>
-<br>
-
 Email: williamitalia70@outlook.com 
 <br>
 Linkedin: [Meu Linkedin](https://www.linkedin.com/in/william-itália-101113222/)
