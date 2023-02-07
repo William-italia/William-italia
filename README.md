@@ -4,10 +4,8 @@
 <br>
 Oi, Meu nome é william! 
 <br>
-Atualmente estou me aprofundando em todos os conhecimentos que um Dev Fullstack tem que saber para desenvolver aplicações, tanto para conhecimento proprio, quanto para ter um melhor rendimento na faculdade de ADS(Analise e Desenvolvimento de Sistemas), tambem estudo sobre hardware e manutenção de computadores. 
+Atualmente estou me aprofundando em todos os conhecimentos que um Dev Fullstack tem que saber para desenvolver aplicações, tanto para conhecimento proprio, quanto para ter um melhor rendimento na faculdade de ADS(Analise e Desenvolvimento de Sistemas) realizada na Unisantos, tambem estudo sobre hardware e manutenção de computadores. 
 
-Estudando: HTML, CSS, JAVASCRIPT, NODE.JS, PHP, BANCDO DE DADOS EM GERAL(MYSQL, SQL, MONGO DB, PostgreSQL, etc...), Python, C#
-, C, entre outras linguagens. <br>
 <br>
 <br>
 <hr>
@@ -28,7 +26,6 @@ Linkedin: [Meu Linkedin](https://www.linkedin.com/in/william-itália-101113222/)
 <p>
 <a href="https://github.com/William-italia">
    <img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=William-italia&layout=compact&langs_count=7&theme=bear"/>
-   
 </p>
 
 <br>
