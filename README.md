@@ -4,7 +4,7 @@
 <br>
 Oi, Meu nome é william! 
 <br>
-Atualmente estou me aprofundando em todos os conhecimentos que um Dev Fullstack tem que saber para desenvolver aplicações, tanto para conhecimento proprio, quanto para ter um melhor rendimento na faculdade de ADS(Analise e Desenvolvimento de Sistemas) realizada na Unisantos, tambem estudo sobre hardware e manutenção de computadores. 
+Atualmente estou me aprofundando em todos os conhecimentos que um Dev Fullstack tem que saber para desenvolver aplicações, tanto para conhecimento proprio, quanto para ter um melhor rendimento na faculdade de ADS(Analise e Desenvolvimento de Sistemas) realizada na Unisantos, tambem cursei e curso cursos relacionados a hardware e manutenção de computadores. 
 
 <br>
 <br>
