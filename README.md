@@ -8,7 +8,8 @@ Atualmente estou me aprofundando em todos os conhecimentos que um Dev Fullstack 
 
 <br>
 <br>
-<hr>
+<br>
+
 Contato:
 <br>
 Email: williamitalia70@outlook.com 
@@ -19,4 +20,3 @@ Linkedin: [Meu Linkedin](https://www.linkedin.com/in/william-itália-101113222/)
 <br>
 
 ![Snake animation](https://github.com/william-italia/william-italia/blob/output/github-contribution-grid-snake.svg)
-<hr>
