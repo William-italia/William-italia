@@ -45,14 +45,8 @@ In recent years, I have been learning new technologies and languages. These are 
 
 <a href="#"><img align="" src="./img/card-discord.png" width="400px" heigth="400px" style="border-radius:10px"></a>
 
-
-
-
-
-
-
-
-
-
+<br>
+<hr>
+<br>
 
 ![Snake animation](https://github.com/william-italia/william-italia/blob/output/github-contribution-grid-snake.svg)
