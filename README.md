@@ -42,10 +42,10 @@ In recent years, I have been learning new technologies and languages. These are 
 
 <p align=""><img align="" src="https://github-readme-streak-stats.herokuapp.com?user=william-italia&hide_border=true&background=262A33&ring=43FFAF&fire=43FFAF&currStreakNum=E5F7EF&sideLabels=E5F7EF&dates=526777&currStreakLabel=E5F7EF&sideNums=43FFAF" /></p>
 
-## Disocrd Activity <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Ghost.png" alt="Ghost" width="30" />
+## Discord Activity <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Cyclone.png" alt="Cyclone" width="30" />
 
+<img align="" src="./img/card-discord.png" width="400px" heigth="400px" style="border-radius:10px">
 
-![Discord](./assets/images/card-discord.png)
 
 
 
