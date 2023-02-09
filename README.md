@@ -36,10 +36,10 @@ In recent years, I have been learning new technologies and languages. These are 
 ## Github Stats <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Bar Chart" width="30" />
 
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=william-italia&show_icons=true&line_height=27&count_private=true&title_color=43ffaf&text_color=e5f7ef&icon_color=43ffaf&bg_color=262a33&hide_border=true" /><nobr>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=william-italia&title_color=43ffaf&text_color=e5f7ef&icon_color=526777&hide_border=true&bg_color=262a33&langs_count=3" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=william-italia&show_icons=true&line_height=27&count_private=true&title_color=00CED1&text_color=fff&icon_color=00CED1&bg_color=4f4f4f&hide_border=true" /><nobr>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=william-italia&title_color=00CED1&text_color=e5f7ef&icon_color=526777&hide_border=true&bg_color=4f4f4f&langs_count=3" />
 </nobr>
-<p align=""><img src="https://github-readme-streak-stats.herokuapp.com?user=william-italia&hide_border=true&background=262A33&ring=43FFAF&fire=43FFAF&currStreakNum=E5F7EF&sideLabels=E5F7EF&dates=526777&currStreakLabel=E5F7EF&sideNums=43FFAF" width="468px"/></p>
+<p align=""><img src="https://github-readme-streak-stats.herokuapp.com?user=william-italia&hide_border=true&background=4f4f4f&ring=40e0d0&fire=00CED1&currStreakNum=00CED1&sideLabels=E5F7EF&dates=1c1c1c&currStreakLabel=E5F7EF&sideNums=00CED1&" width="468px"/></p>
 
 ## Discord Activity <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Cyclone.png" alt="Cyclone" width="30" />
 
