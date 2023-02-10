@@ -43,7 +43,7 @@ In recent years, I have been learning new technologies and languages. These are 
 
 ## Discord Activity <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Cyclone.png" alt="Cyclone" width="30" />
 
-<a href="#"><img align="" src="./img/card-discord.png" width="400px" heigth="400px" style="border-radius:10px"></a>
+<a href="#"><img align="" src="./img/card-dc.gif" width="400px" heigth="400px" style="border-radius:10px"></a>
 
 <br>
 <hr>
