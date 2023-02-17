@@ -1,6 +1,6 @@
 # Welcome to my profile! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="40" height="40" />
 
-Hello, I'm William, a programmer, developer and future and technologist, who seeks to learn, and know every day, new knowledge and the various technologies that we have today, despite being studying ADS college, I consider myself a self-taught programmer, constantly learning and always looking to improve my skills and knowledge in the area.
+Hello, I'm William, a programmer, developer and future technologist, who seeks to learn, and know every day, new knowledge and the various technologies that we have today, despite being studying ADS college, I consider myself a self-taught programmer, constantly learning and always looking to improve my skills and knowledge in the area.
 
 I like to create websites, applications, make animations with css, drawings among other things, I have some website projects in my repositories that I've done in recent times. 
 
