@@ -41,7 +41,6 @@ In recent years, I have been learning new technologies and languages. These are 
 </nobr>
 <p align=""><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=william-italia&title_color=00CED1&text_color=e5f7ef&icon_color=526777&hide_border=true&bg_color=4f4f4f" /></p>
 
-
 ## Discord Activity <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Cyclone.png" alt="Cyclone" width="30" />
 
 <a href="#"><img align="" src="./img/Card-dc.gif" width="400px" heigth="400px" style="border-radius:10px"></a>
