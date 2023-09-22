@@ -27,7 +27,6 @@ In recent years, I have been learning new technologies and languages. These are 
 |<img src="./img/graphql-plain-wordmark.svg" width="25"> | ` GRAPHQL ` | <img src="" alt="" width="25">
 |<img src="./img/git-original.svg" width="25"> | ` GIT ` | <img src="" alt="" width="25">
 |<img src="./img/photoshop-line.svg" width="25"> | ` PHOTOSHOP ` | <img src="" alt="" width="25">
-<!-- |<img src="./img/ .svg" width="25"> | `  ` | <img src="" alt="" width="25"> -->
 
 <br>
 <hr>
@@ -35,18 +34,18 @@ In recent years, I have been learning new technologies and languages. These are 
 
 ## Github Stats <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Bar Chart" width="30" />
 
-
-<img align="center" width="400px" src="https://github-readme-stats.vercel.app/api?username=william-italia&show_icons=true&line_height=27&count_private=true&title_color=00CED1&text_color=fff&icon_color=00CED1&bg_color=4f4f4f&hide_border=true" /><br>
-<img align="center" width="400px" src="https://github-readme-streak-stats.herokuapp.com?user=william-italia&hide_border=true&background=4f4f4f&ring=40e0d0&fire=00CED1&currStreakNum=00CED1&sideLabels=E5F7EF&dates=1c1c1c&currStreakLabel=E5F7EF&sideNums=00CED1&"/>
+<img align="center" width="350px" src="https://github-readme-streak-stats.herokuapp.com?user=william-italia&hide_border=true&background=4f4f4f&ring=40e0d0&fire=00CED1&currStreakNum=00CED1&sideLabels=E5F7EF&dates=1c1c1c&currStreakLabel=E5F7EF&sideNums=00CED1&"/>
 </nobr>
-<p align=""><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=william-italia&title_color=00CED1&text_color=e5f7ef&icon_color=526777&hide_border=true&bg_color=4f4f4f" /></p>
+<p align=""><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=william-italia&title_color=00CED1&text_color=e5f7ef&icon_color=526777&hide_border=true&bg_color=4f4f4f" width="350px" /></p>
+
+### Card Statistics <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Comet.png" alt="Comet" width="25" height="25" />
+<hr>
+<br>
+<a href="#"><img align="" src="./img/card-statics.png" width="400px" heigth="400px" style="border-radius:10px"></a>
 
 ## Discord Activity <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Cyclone.png" alt="Cyclone" width="30" />
 
 <a href="#"><img align="" src="./img/Card-dc.gif" width="400px" heigth="400px" style="border-radius:10px"></a>
 
-<br>
-<hr>
-<br>
 
-![Snake animation](https://github.com/william-italia/william-italia/blob/output/github-contribution-grid-snake.svg)
+
