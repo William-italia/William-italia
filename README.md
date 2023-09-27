@@ -7,7 +7,7 @@ I like to create websites, applications, animations with CSS, large and small pr
 
 ## Card Statistics <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Comet.png" alt="Comet" width="25" height="25" />
 <br>
-<a href="https://github.com/William-italia/Card-Statistics-Perfil.git"><img align="" src="./img/card-estatisticas.png" width="400px" heigth="400px" style="border-radius:10px"></a>
+<a href="https://github.com/William-italia/"><img align="" src="./img/card-statics-gif-gif-gif.gif" width="400px" heigth="400px" style="border-radius:10px"></a>
 <br>
 
 ## Discord Activity <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Cyclone.png" alt="Cyclone" width="30" />
