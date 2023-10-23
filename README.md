@@ -27,9 +27,9 @@ I enjoy creating websites, applications, and animations using CSS, as well as wo
 
 <div>
 <!--YouTube -->
-<a href="https://www.youtube.com/channel/UCbgPho1HFdNWNkSmqTP7rsQ"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt=""></a>
+<a href="https://www.youtube.com/channel/UCbgPho1HFdNWNkSmqTP7rsQ" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt=""></a>
 <!-- Instagram -->
-<a href="https://www.instagram.com/williamita_dev/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt=""></a>
+<a href="https://www.instagram.com/williamita_dev/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt=""></a>
 </div>
 <br>
 <br>
