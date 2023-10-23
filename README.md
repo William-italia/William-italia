@@ -1,14 +1,11 @@
 # Welcome to my profile! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="40" height="40" />
 
-Hello, I'm William, a programmer, developer and future technologist, who seeks to learn, and discover new knowledge every day and the various technologies that we have today, I consider myself a self-taught programmer, constantly learning and always seeking to improve my skills and knowledge in this area that I love so much.
+Hello, I'm William, a programmer, developer, and aspiring technologist who is dedicated to learning and acquiring new knowledge every day. I am passionate about exploring the wide range of technologies available today. I consider myself a self-taught programmer, constantly expanding my skills and knowledge in this field that I'm truly passionate about.
 
-I like to create websites, applications, animations with CSS, large and small projects, among other things, I have some website projects in my repositories that I have been working on recently, and everything I have in my readme is made with code, and is available in my repositories, feel free to use or modify if you like! thank you very much! for visiting my profile!
+I enjoy creating websites, applications, and animations using CSS, as well as working on both large and small projects. I currently have several website projects in my repositories that I've been actively developing. Everything in my README is written in code and is accessible in my repositories. Please feel free to use or modify any of it if you find it useful! Thank you for visiting my profile.
 
 
-## Card Statistics <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Comet.png" alt="Comet" width="25" height="25" />
-<br>
-<a href="https://github.com/William-italia/"><img align="" src="./img/card-statics-gif-gif-gif.gif" width="400px" heigth="400px" style="border-radius:10px"></a>
-<br>
+
 
 ## Discord Activity <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Cyclone.png" alt="Cyclone" width="30" />
 <br>
@@ -23,10 +20,24 @@ I like to create websites, applications, animations with CSS, large and small pr
 </nobr>
 <p align=""><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=william-italia&title_color=00CED1&text_color=e5f7ef&icon_color=526777&hide_border=true&bg_color=4f4f4f" width="350px" /></p>
 
+<br>
+
+
+## social media <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Eyes.png" alt="Eyes" width="25" height="25" />
+
+<div>
+<!--YouTube -->
+<a href="https://www.youtube.com/channel/UCbgPho1HFdNWNkSmqTP7rsQ"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt=""></a>
+<!-- Instagram -->
+<a href="https://www.instagram.com/williamita_dev/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt=""></a>
+</div>
+<br>
+<br>
+<hr>
+emoji website link: https://animated-fluent-emoji.vercel.app
+
 <!-- ## Skills  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="35" height="35" />
-
 In recent years, I have been learning new technologies and languages. These are the ones I learned and plan to learn very soon.
-
 | **#** | **Language** | **Proficiency** |
 | :------------------------------------------------------------------------------------------------------------: | :----------: | :-------------------------------------------------------------------: |
 |<img src="./img/html5-original.svg" width="25"> | ` HTML5 ` | <img src="" alt="" width="25">
