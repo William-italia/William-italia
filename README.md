@@ -18,7 +18,7 @@ I enjoy creating websites, applications, and animations using CSS, as well as wo
 
 <img align="center" width="350px" src="https://github-readme-streak-stats.herokuapp.com?user=william-italia&hide_border=true&background=4f4f4f&ring=40e0d0&fire=00CED1&currStreakNum=00CED1&sideLabels=E5F7EF&dates=1c1c1c&currStreakLabel=E5F7EF&sideNums=00CED1&"/>
 </nobr>
-<p align=""><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=william-italia&title_color=00CED1&text_color=e5f7ef&icon_color=526777&hide_border=true&bg_color=4f4f4f" width="350px" /></p>
+
 
 <br>
 
