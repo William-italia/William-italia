@@ -1,19 +1,25 @@
-# Welcome to my profile! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="40" height="40" />
+# Welcome to My GitHub Repository! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="40" height="40" />
 
-Hello, I'm William, a programmer, developer, and aspiring technologist who is dedicated to learning and acquiring new knowledge every day. I am passionate about exploring the wide range of technologies available today. I consider myself a self-taught programmer, constantly expanding my skills and knowledge in this field that I'm truly passionate about.
+Hello! I'm a technology enthusiast and developer in continuous learning, passionate about solving problems and creating innovative solutions. In this repository, you'll find a collection of projects I'm working on, ranging from small experiments to more complex initiatives.
 
-I enjoy creating websites, applications, and animations using CSS, as well as working on both large and small projects. I currently have several website projects in my repositories that I've been actively developing. Everything in my README is written in code and is accessible in my repositories. Please feel free to use or modify any of it if you find it useful! Thank you for visiting my profile.
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="40" height="40" /> About Me
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="25" height="25" /> **IT Technician in Training**: I'm currently pursuing a technical course in IT at ETEC, where I'm honing my skills in programming, databases, and web development.
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Seedling.png" alt="Seedling" width="25" height="25" /> **Continuous Learning**: I'm always looking to learn new technologies and programming languages. Currently, I'm focused on improving my skills in JavaScript, PHP, and databases like MySQL and MongoDB.
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Bullseye.png" alt="Bullseye" width="25" height="25" /> **Projects**: My projects range from websites and web applications to useful scripts and tools for developers. I'm always exploring new ideas and looking for ways to contribute to the community.
 
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="40" height="40" /> Technologies and Tools
+- **Front-End**: HTML, CSS, JavaScript, React
+- **Back-End**: Node.js, PHP
+- **Databases**: MySQL, MongoDB
+- **Tools**: Git, GitHub, VS Code, Linux
 
-
-
-## Discord Activity <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Cyclone.png" alt="Cyclone" width="30" />
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Cyclone.png" alt="Cyclone" width="40" /> Discord Activity 
 <br>
 
 <a href="https://github.com/William-italia/Card-discord.git"><img align="" src="./img/Card-dc.gif" width="400px" heigth="400px" style="border-radius:10px"></a>
 <br>
 
-## Github Stats <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Bar Chart" width="30" />
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Bar Chart" width="40" /> Github Stats 
 <br>
 
 <img align="center" width="350px" src="https://github-readme-streak-stats.herokuapp.com?user=william-italia&hide_border=true&background=4f4f4f&ring=40e0d0&fire=00CED1&currStreakNum=00CED1&sideLabels=E5F7EF&dates=1c1c1c&currStreakLabel=E5F7EF&sideNums=00CED1&"/>
@@ -22,8 +28,7 @@ I enjoy creating websites, applications, and animations using CSS, as well as wo
 
 <br>
 
-
-## social media <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Eyes.png" alt="Eyes" width="25" height="25" />
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Eyes.png" alt="Eyes" width="40" height="40" /> Social media 
 
 <div>
 <!--YouTube -->
@@ -35,28 +40,3 @@ I enjoy creating websites, applications, and animations using CSS, as well as wo
 <br>
 <hr>
 emoji website link: https://animated-fluent-emoji.vercel.app
-
-<!-- ## Skills  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="35" height="35" />
-In recent years, I have been learning new technologies and languages. These are the ones I learned and plan to learn very soon.
-| **#** | **Language** | **Proficiency** |
-| :------------------------------------------------------------------------------------------------------------: | :----------: | :-------------------------------------------------------------------: |
-|<img src="./img/html5-original.svg" width="25"> | ` HTML5 ` | <img src="" alt="" width="25">
-|<img src="./img/css3-original.svg" width="25"> | ` CSS3 ` | <img src="" alt="" width="25">
-|<img src="./img/javascript-original.svg" width="25"> | ` JavaScript ` | <img src="" alt="" width="25">
-|<img src="./img/typescript-original.svg" width="25"> | ` TypeScript ` | <img src="" alt="" width="25">
-|<img src="./img/nodejs-original.svg" width="25"> | ` NODEJS ` | <img src="" alt="" width="25">
-|<img src="./img/nextjs-original.svg" width="25"> | ` NEXTJS ` | <img src="" alt="" width="25">
-|<img src="./img/react-original.svg" width="25"> | ` REACT ` | <img src="" alt="" width="25">
-|<img src="./img/csharp-original.svg" width="25"> | ` C# ` | <img src="" alt="" width="25">
-|<img src="./img/c-original.svg" width="25"> | ` C ` | <img src="" alt="" width="25">
-|<img src="./img/python-original.svg" width="25"> | ` PYTHON ` | <img src="" alt="" width="25">
-|<img src="./img/php-original.svg" width="25"> | ` PHP ` | <img src="" alt="" width="25">
-|<img src="./img/mysql-original-wordmark.svg" width="25"> | ` SQL ` | <img src="" alt="" width="25">
-|<img src="./img/django-plain.svg" width="25"> | ` DJANGO ` | <img src="" alt="" width="25">
-|<img src="./img/java-original.svg" width="25"> | ` JAVA ` | <img src="" alt="" width="25">
-|<img src="./img/graphql-plain-wordmark.svg" width="25"> | ` GRAPHQL ` | <img src="" alt="" width="25">
-|<img src="./img/git-original.svg" width="25"> | ` GIT ` | <img src="" alt="" width="25">
-|<img src="./img/photoshop-line.svg" width="25"> | ` PHOTOSHOP ` | <img src="" alt="" width="25">
-
-<br>
-<hr> -->
