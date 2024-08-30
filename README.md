@@ -8,7 +8,7 @@ Hello! I'm a technology enthusiast and developer in continuous learning, passion
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Bullseye.png" alt="Bullseye" width="25" height="25" /> **Projects**: My projects range from websites and web applications to useful scripts and tools for developers. I'm always exploring new ideas and looking for ways to contribute to the community.
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="40" height="40" /> Technologies and Tools
-- **Front-End**: HTML, CSS, JavaScript, React
+- **Front-End**: HTML, CSS, JavaScript, Tailwind, React
 - **Back-End**: Node.js, PHP
 - **Databases**: MySQL, MongoDB
 - **Tools**: Git, GitHub, VS Code, Linux
