@@ -19,14 +19,9 @@ Hello! I'm a technology enthusiast and developer in continuous learning, passion
 <a href="https://github.com/William-italia/Card-discord.git"><img align="" src="./img/Card-dc.gif" width="400px" heigth="400px" style="border-radius:10px"></a>
 <br>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Bar Chart" width="40" /> Github Stats 
-<br>
-
-<img align="center" width="350px" src="https://github-readme-streak-stats.herokuapp.com?user=william-italia&hide_border=true&background=4f4f4f&ring=40e0d0&fire=00CED1&currStreakNum=00CED1&sideLabels=E5F7EF&dates=1c1c1c&currStreakLabel=E5F7EF&sideNums=00CED1&"/>
-</nobr>
 
 
-<br>
+
 
 
 </div>
